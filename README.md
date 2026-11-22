@@ -1,1 +1,1 @@
-# ml-ai-course
+# This is a repo for notebooks made for ML/AI Course
